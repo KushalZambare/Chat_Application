@@ -1,2 +1,3 @@
 # Chat_Application
-Chat Application in java.
+Chat Application in Java.
+Client and Server System.
