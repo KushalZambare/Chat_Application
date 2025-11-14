@@ -12,6 +12,7 @@ public class ChatClient {
     
     public ChatClient() {
         scanner = new Scanner(System.in);
+        
     }
     
     public void start() {
@@ -80,4 +81,5 @@ public class ChatClient {
         ChatClient client = new ChatClient();
         client.start();
     }
+
 }
