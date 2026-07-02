@@ -21,7 +21,7 @@ The server accepts multiple clients over TCP sockets and broadcasts messages to 
   - `/users` – List all online users.
   - `/quit` – Disconnect from the chat.
 - **Console client**:
-  - Simple text-based chat in the terminal.
+  - Simple text-based Chat in the terminal.
 - **GUI client**:
   - Swing-based interface with:
     - Chat history area
