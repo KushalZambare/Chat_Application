@@ -1,6 +1,6 @@
 ## Java Chat Application
 
-This is a simple multi-client chat application written in **pure Java**, featuring:
+This is a simple multi-client chat application written in **pure Java**, featuring-
 
 - **Console-based server** (`ChatServer`)
 - **Console-based client** (`ChatClient`)
