@@ -7,7 +7,7 @@ This is a simple multi-client chat application written in **pure Java**, featuri
 - **Swing GUI client** (`ChatClientGUI`)
 - Basic features like online user list, join/leave notifications, and simple commands.
 
-The server accepts multiple clients over TCP sockets and broadcasts messages to all connected users.
+The server accepts multiple clients over TCP socket and broadcasts messages to all connected users.
 
 ---
 
